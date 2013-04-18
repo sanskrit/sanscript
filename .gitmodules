@@ -1,0 +1,6 @@
+[submodule "sanscript.js"]
+	path = sanscript.js
+	url = git://github.com/sanskrit/sanscript.js
+[submodule "sanscript.php"]
+	path = sanscript.php
+	url = git://github.com/sanskrit/sanscript.php
